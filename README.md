@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="right">
+<a style="text-decoration: none" target="_blank"href="[https://github.com/RafaelBossh16]">
+<img src="https://img.shields.io/github/followers/RafaelBossh16">
+</a>
+<a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/rafael-huamani-tejeda-a50b66252/" >
+<img width="70"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
+</a>
+</div>
 
-<!--
-**RafaelBossh16/RafaelBossh16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola!+👋;+Soy+Rafael+Huamani!;" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="#"><img width="auto" height="auto" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433"/></a>
+
+
