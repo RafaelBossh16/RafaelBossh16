@@ -82,7 +82,7 @@ Mi objetivo es desarrollar mi carrera profesional en el área de la innovación 
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://www.linkedin.com/in/rafael-huamani-tejeda-a50b66252/">
-    <img src="https://skillicons.dev/icons?i=linkedin	" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
