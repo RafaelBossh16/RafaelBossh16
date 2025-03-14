@@ -15,11 +15,11 @@
 <a href="#"><img width="auto" height="auto" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433"/></a>
 
 <h2>📖 | About me</h2> 
-🌐 With 3+ years of experience as a Senior Software Engineer, I'm dedicated to developing software solutions that effectively bridge technology with real-world applications. My comprehensive expertise encompasses frontend, backend, and full-stack development, enabling me to contribute significantly to projects ranging from innovative startups to complex enterprise solutions. I advocate for clean, maintainable code and user-centric design, thriving in environments that prioritize innovation and ongoing professional growth.
+🌐 Con más de 3 años de experiencia como Ingeniero de Sistemas de Información, me dedico al desarrollo de soluciones tecnológicas, que unen eficazmente la tecnología con las aplicaciones del mundo real. Mi experiencia de extremo a extremo abarca frontend, backend y desarrollo full-stack, lo que me permite contribuir significativamente a proyectos que van desde startups innovadoras hasta soluciones empresariales complejas. Abogo por un código limpio y mantenible y un diseño centrado en el usuario, prosperando en entornos que priorizan la innovación y el crecimiento profesional continuo.
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+  <img alt="my contributions" src="https://raw.githubusercontent.com/RafaelBossh16/RafaelBossh16/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
 
