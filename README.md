@@ -25,7 +25,7 @@
 <h2>📚 | Educación</h2>
 <p>Soy egresado de la carrera de Ingeniería de Sistemas de Información en el Instituto San Ignacio de Loyola. Como ingeniero comprometido con el aprendizaje permanente, mi trayectoria académica es activa y ambiciosa. 
 Durante mi etapa como estudiante he formado parte de grupos de análisis, investigación, desarrollo e implementación de proyectos con metodologías ágiles, donde he podido desarrollar mis habilidades de comunicación y liderazgo, permitiéndome desenvolverme de manera muy efectiva y capaz en mis posteriores desafíos tanto en la vida personal como profesional.
-Mi objetivo es desarrollar mi carrera profesional en el área de la innovación digital y desarrollo de aplicaciones formando parte de un equipo de trabajo que me permita aplicar todo lo aprendido durante estos años y seguir absorbiendo conocimientos para lograr los mejores resultados posibles..</p><br>
+Mi objetivo es desarrollar mi carrera profesional en el área de la innovación digital y desarrollo de aplicaciones formando parte de un equipo de trabajo que me permita aplicar todo lo aprendido durante estos años y seguir absorbiendo conocimientos para lograr los mejores resultados posibles.</p><br>
 
 <h2>🔥| Mi racha de contribuciones</h2>
 <p align="center">
@@ -34,6 +34,15 @@ Mi objetivo es desarrollar mi carrera profesional en el área de la innovación 
   </a>
 </p>
 
+<h2>📊 | Github Stats </h2>
+<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RafaelBossh16 Github Stats" src="https://github-readme-stats.vercel.app/api/?username=RafaelBossh16&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RafaelBossh16 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBossh16&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <br/>
+  <b>Nota:</b> Esto es sólo una métrica de los lenguajes de los que se compone mi código público y no refleja la experiencia o el nivel de habilidad.
+</p>
 
 
 
