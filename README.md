@@ -14,16 +14,17 @@
 
 <a href="#"><img width="auto" height="auto" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433"/></a>
 
-<h2>📖 | About me</h2> 
+<h2>📖 | Sobre mí</h2> 
 🌐 Con más de 3 años de experiencia como Ingeniero de Sistemas de Información, me dedico al desarrollo de soluciones tecnológicas, que unen eficazmente la tecnología con las aplicaciones del mundo real. Mi experiencia de extremo a extremo abarca frontend, backend y desarrollo full-stack, lo que me permite contribuir significativamente a proyectos que van desde startups innovadoras hasta soluciones empresariales complejas. Abogo por un código limpio y mantenible y un diseño centrado en el usuario, prosperando en entornos que priorizan la innovación y el crecimiento profesional continuo.
 
 <div align="center">
-  <br>
-  <img alt="my contributions" src="https://raw.githubusercontent.com/RafaelBossh16/RafaelBossh16/output/github-contribution-grid-snake.svg" />
-  <br/>
+
+![snake gif](https://github.com/RafaelBossh16/RafaelBossh16/blob/output/github-snake-dark.svg)
 </div>
 
-<h2>📚 | Education</h2>
+<br>
+
+<h2>📚 | Educación</h2>
 <p>As an engineer committed to lifelong learning, my academic path is both active and aspirational. Having achieved my bachelor's degree, I'm now advancing through my master's program, with the ultimate goal of attaining a doctoral degree.</p><br>
 
 
