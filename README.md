@@ -72,5 +72,17 @@ Mi objetivo es desarrollar mi carrera profesional en el área de la innovación 
     </tr>
 </table>
 
+<h2>🤝🏼 | Conecta conmigo </h2>
 
+<p align="center">
+  <a href="https://discordapp.com/users/762124276195131392">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://www.instagram.com/rafaelht_16/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-huamani-tejeda-a50b66252/">
+    <img src="https://skillicons.dev/icons?i=linkedin	" />
+  </a>
+</p>
 
