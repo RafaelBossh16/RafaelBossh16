@@ -22,14 +22,10 @@
 ![snake gif](https://github.com/RafaelBossh16/RafaelBossh16/blob/output/github-snake-dark.svg)
 </div>
 
-<br>
-
 <h2>📚 | Educación</h2>
 <p>Soy egresado de la carrera de Ingeniería de Sistemas de Información en el Instituto San Ignacio de Loyola. Como ingeniero comprometido con el aprendizaje permanente, mi trayectoria académica es activa y ambiciosa. 
 Durante mi etapa como estudiante he formado parte de grupos de análisis, investigación, desarrollo e implementación de proyectos con metodologías ágiles, donde he podido desarrollar mis habilidades de comunicación y liderazgo, permitiéndome desenvolverme de manera muy efectiva y capaz en mis posteriores desafíos tanto en la vida personal como profesional.
 Mi objetivo es desarrollar mi carrera profesional en el área de la innovación digital y desarrollo de aplicaciones formando parte de un equipo de trabajo que me permita aplicar todo lo aprendido durante estos años y seguir absorbiendo conocimientos para lograr los mejores resultados posibles..</p><br>
-
-<br>
 
 <h2>🔥| Mi racha de contribuciones</h2>
 <p align="center">
@@ -38,7 +34,7 @@ Mi objetivo es desarrollar mi carrera profesional en el área de la innovación 
   </a>
 </p>
 
-<br>
+
 
 
 
