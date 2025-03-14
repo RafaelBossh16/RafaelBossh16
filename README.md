@@ -34,7 +34,7 @@ Mi objetivo es desarrollar mi carrera profesional en el área de la innovación 
   </a>
 </p>
 
-<h2>📊 | Github Stats </h2>
+<h2>📊 | Estadísticas de GitHub </h2>
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <br/>
@@ -44,6 +44,33 @@ Mi objetivo es desarrollar mi carrera profesional en el área de la innovación 
   <b>Nota:</b> Esto es sólo una métrica de los lenguajes de los que se compone mi código público y no refleja la experiencia o el nivel de habilidad.
 </p>
 
+<h2>🛠️ | Lenguajes de Programación, Frameworks y Heramientas </h2>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,java,spring,cs,net,go,npm"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,mui,bootstrap,html,css,js,ts,angular,vue,tailwind"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gcp,aws,terraform,tensorflow,azure,kubernetes"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Base de Datos:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql,mongodb,redis,supabase,sqlite"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Control de Versiones:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Plataformas y Herramientas:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,wordpress,visualstudio,vercel,stackoverflow,sublime,pycharm,postman,notion,idea,figma,eclipse,androidstudio"/></td>
+    </tr>
+</table>
 
 
 
